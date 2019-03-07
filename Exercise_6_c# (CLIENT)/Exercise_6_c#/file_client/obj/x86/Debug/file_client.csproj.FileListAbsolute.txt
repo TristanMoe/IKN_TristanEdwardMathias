@@ -1,7 +1,0 @@
-/home/ikn/Desktop/Exercise_6_c#(2)/Exercise_6_c#/file_client/bin/Debug/file_client.exe
-/home/ikn/Desktop/Exercise_6_c#(2)/Exercise_6_c#/file_client/bin/Debug/file_client.pdb
-/home/ikn/Desktop/Exercise_6_c#(2)/Exercise_6_c#/file_client/bin/Debug/LIB.dll
-/home/ikn/Desktop/Exercise_6_c#(2)/Exercise_6_c#/file_client/bin/Debug/LIB.pdb
-/home/ikn/Desktop/Exercise_6_c#(2)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csproj.CoreCompileInputs.cache
-/home/ikn/Desktop/Exercise_6_c#(2)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.exe
-/home/ikn/Desktop/Exercise_6_c#(2)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.pdb

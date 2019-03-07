@@ -5,3 +5,4 @@
 /home/ikn/Desktop/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csproj.CoreCompileInputs.cache
 /home/ikn/Desktop/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.exe
 /home/ikn/Desktop/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.pdb
+/home/ikn/Desktop/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csprojResolveAssemblyReference.cache

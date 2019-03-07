@@ -91,14 +91,14 @@ namespace tcp
 				Console.WriteLine($"Trying to send file: {fileName}");
 				FileStream fileStream = new FileStream(fileName, FileMode.Open, FileAccess.Read);
 
-
+                
 				long sizeOfFile = LIB.check_File_Exists(fileName);
 				LIB.writeTextTCP(io, sizeOfFile.ToString());
 				io.Flush();
 
 				sendBytes = new byte[BUFSIZE];
-				int readBytes = 0; 
-				while((readBytes = fileStream.Read(sendBytes, 0, BUFSIZE)) > 0)
+				int readBytes = 0;
+				while ((readBytes = fileStream.Read(sendBytes, 0, BUFSIZE)) > 0)
 				{
 					serverResponse = Encoding.ASCII.GetString(sendBytes);
 					LIB.writeTextTCP(io, serverResponse);
@@ -108,8 +108,9 @@ namespace tcp
 			else
 			{
 				Console.WriteLine($"The file {LIB.extractFileName(fileName)} did not exist");
-				//File was not found, send errormessage              
-				LIB.writeTextTCP(io, "0"); 
+				//File was not found, send errormessage 
+                //MANGLER, VIRKER IKKE
+				LIB.writeTextTCP(io, "Did not exist"); 
 				io.Flush();
 			}
             //Flush data from stream 
