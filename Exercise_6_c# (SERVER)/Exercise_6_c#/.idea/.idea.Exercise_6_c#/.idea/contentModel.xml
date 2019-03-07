@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Exercise_6_c#.sln" t="IncludeFlat" />
+      <e p="file_client" t="IncludeRecursive">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="file_client.cs" t="Include" />
+        <e p="file_client.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="file_server" t="IncludeRecursive">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="file_server.cs" t="Include" />
+        <e p="file_server.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="LIB" t="IncludeRecursive">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="lib.cs" t="Include" />
+        <e p="LIB.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Exercise_6_c#.-1181335063.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+  </component>
+</project>

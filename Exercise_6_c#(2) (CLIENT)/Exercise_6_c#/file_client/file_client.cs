@@ -42,7 +42,8 @@ namespace tcp
             //serverStream.Write(outStream, 0, outStream.Length);
             //serverStream.Flush();
 
-			receiveFile(Desiredfile, serverStream);            
+			receiveFile(Desiredfile, serverStream);
+			clientSocket.Close();
 		}
 
 		/// <summary>

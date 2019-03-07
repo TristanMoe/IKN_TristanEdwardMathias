@@ -6,3 +6,11 @@
 /home/ikn/Desktop/Exercise_6_c#/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache
 /home/ikn/Desktop/Exercise_6_c#/Exercise_6_c#/file_server/obj/x86/Debug/file_server.exe
 /home/ikn/Desktop/Exercise_6_c#/Exercise_6_c#/file_server/obj/x86/Debug/file_server.pdb
+/Users/edwardbrunton/Documents/4 Semester/IKN/TCP Custom/IKN_TristanEdwardMathias/Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/file_server.exe
+/Users/edwardbrunton/Documents/4 Semester/IKN/TCP Custom/IKN_TristanEdwardMathias/Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/file_server.pdb
+/Users/edwardbrunton/Documents/4 Semester/IKN/TCP Custom/IKN_TristanEdwardMathias/Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/LIB.dll
+/Users/edwardbrunton/Documents/4 Semester/IKN/TCP Custom/IKN_TristanEdwardMathias/Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/LIB.pdb
+/Users/edwardbrunton/Documents/4 Semester/IKN/TCP Custom/IKN_TristanEdwardMathias/Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csprojResolveAssemblyReference.cache
+/Users/edwardbrunton/Documents/4 Semester/IKN/TCP Custom/IKN_TristanEdwardMathias/Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache
+/Users/edwardbrunton/Documents/4 Semester/IKN/TCP Custom/IKN_TristanEdwardMathias/Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.exe
+/Users/edwardbrunton/Documents/4 Semester/IKN/TCP Custom/IKN_TristanEdwardMathias/Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.pdb

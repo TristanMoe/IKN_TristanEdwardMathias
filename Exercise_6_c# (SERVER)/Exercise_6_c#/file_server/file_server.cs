@@ -110,8 +110,10 @@ namespace tcp
 				Console.WriteLine($"The file {LIB.extractFileName(fileName)} did not exist");
 				//File was not found, send errormessage 
                 //MANGLER, VIRKER IKKE
-				LIB.writeTextTCP(io, "Did not exist"); 
-				io.Flush();
+                int err = 0;
+                LIB.writeTextTCP(io, err.ToString());
+                io.Flush();
+
 			}
             //Flush data from stream 
 
