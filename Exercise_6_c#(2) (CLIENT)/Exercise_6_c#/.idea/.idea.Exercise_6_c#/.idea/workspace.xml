@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c8c4007-b147-41f2-8986-e32d10783278" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/bin/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/bin/Debug/LIB.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/bin/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/bin/Debug/LIB.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/LIB/obj/Debug/LIB.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/LIB.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/LIB.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/file_server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/file_server.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/file_server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/bin/Debug/file_server.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/file_server.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/file_server.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/file_server/obj/x86/Debug/file_server.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIB/bin/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/bin/Debug/LIB.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIB/bin/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/bin/Debug/LIB.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIB/obj/Debug/LIB.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/obj/Debug/LIB.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIB/obj/Debug/LIB.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/obj/Debug/LIB.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIB/obj/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/obj/Debug/LIB.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIB/obj/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/obj/Debug/LIB.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/bin/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/bin/Debug/LIB.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/bin/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/bin/Debug/LIB.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/bin/Debug/file_client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/bin/Debug/file_client.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/bin/Debug/file_client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/bin/Debug/file_client.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/file_client.cs" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/file_client.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/file_client/obj/x86/Debug/file_client.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_server/bin/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/bin/Debug/LIB.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_server/bin/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/bin/Debug/LIB.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_server/bin/Debug/file_server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/bin/Debug/file_server.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_server/bin/Debug/file_server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/bin/Debug/file_server.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="9c8c4007-b147-41f2-8986-e32d10783278" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551965550120</updated>
       <workItem from="1551965551589" duration="159000" />
-      <workItem from="1551965834136" duration="738000" />
+      <workItem from="1551965834136" duration="1005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="897000" />
+    <option name="totallyTimeSpent" value="1164000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,7 +184,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
