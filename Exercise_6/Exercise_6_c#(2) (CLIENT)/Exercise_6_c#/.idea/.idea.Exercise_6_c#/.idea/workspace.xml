@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c8c4007-b147-41f2-8986-e32d10783278" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/.idea/.idea.UDPClientNEw/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/.idea/.idea.UDPClientNEw/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/.idea/.idea.UDPClientNEw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/.idea/.idea.UDPClientNEw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Server/.idea/.idea.Exercise7_UDPServer/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercise_6_c#/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercise_6_c#/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/UDPClientNEw/obj/x86/Debug/UDPClientNEw.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/UDPClientNEw/obj/x86/Debug/UDPClientNEw.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exercise_7/UDP_Server/Exercise7_UDPServer/obj/x86/Debug/Exercise7_UDPServer.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Server/Exercise7_UDPServer/obj/x86/Debug/Exercise7_UDPServer.csprojResolveAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,24 +25,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/file_client/file_client.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-140">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+            <state relative-caret-position="400">
+              <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
               <folding>
-                <marker date="1551966535446" expanded="false" signature="6:93" ph="..." />
-                <marker date="1551966535446" expanded="true" signature="109:2683" ph="{...}" />
-                <marker date="1551966535446" expanded="true" signature="130:2681" ph="{...}" />
-                <marker date="1551966535446" expanded="true" signature="136:182" ph="/// The PORT. ... " />
-                <marker date="1551966535446" expanded="true" signature="210:259" ph="/// The BUFSIZE. ... " />
-                <marker date="1551966535446" expanded="true" signature="337:566" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_client&quot;/&gt; class. ... " />
-                <marker date="1551966535446" expanded="true" signature="603:1146" ph="{...}" />
-                <marker date="1551966535446" expanded="true" signature="895:1073" ph="/* byte[] outStream = System.Text.Encoding.ASCII.GetBytes(Desiredfile + &quot;$&quot;); ... */" />
-                <marker date="1551966535446" expanded="true" signature="1150:1355" ph="/// Receives the file. ... " />
-                <marker date="1551966535446" expanded="true" signature="1418:2125" ph="{...}" />
-                <marker date="1551966535446" expanded="true" signature="1573:1652" ph="{...}" />
-                <marker date="1551966535446" expanded="true" signature="1883:2006" ph="{...}" />
-                <marker date="1551966535446" expanded="true" signature="2173:2338" ph="{...}" />
-                <marker date="1551966535446" expanded="true" signature="2351:2537" ph="/// The entry point of the program, where the program control starts and ends. ... " />
-                <marker date="1551966535446" expanded="true" signature="2579:2678" ph="{...}" />
+                <marker date="1552569255973" expanded="false" signature="6:93" ph="..." />
+                <marker date="1552569255973" expanded="true" signature="109:2683" ph="{...}" />
+                <marker date="1552569255973" expanded="true" signature="130:2681" ph="{...}" />
+                <marker date="1552569255973" expanded="true" signature="136:182" ph="/// The PORT. ... " />
+                <marker date="1552569255973" expanded="true" signature="210:259" ph="/// The BUFSIZE. ... " />
+                <marker date="1552569255973" expanded="true" signature="337:566" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_client&quot;/&gt; class. ... " />
+                <marker date="1552569255973" expanded="true" signature="603:1146" ph="{...}" />
+                <marker date="1552569255973" expanded="true" signature="895:1073" ph="/* byte[] outStream = System.Text.Encoding.ASCII.GetBytes(Desiredfile + &quot;$&quot;); ... */" />
+                <marker date="1552569255973" expanded="true" signature="1150:1355" ph="/// Receives the file. ... " />
+                <marker date="1552569255973" expanded="true" signature="1418:2125" ph="{...}" />
+                <marker date="1552569255973" expanded="true" signature="1573:1652" ph="{...}" />
+                <marker date="1552569255973" expanded="true" signature="1883:2006" ph="{...}" />
+                <marker date="1552569255973" expanded="true" signature="2173:2338" ph="{...}" />
+                <marker date="1552569255973" expanded="true" signature="2351:2537" ph="/// The entry point of the program, where the program control starts and ends. ... " />
+                <marker date="1552569255973" expanded="true" signature="2579:2678" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -41,11 +51,12 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/file_client/file_client.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/file_client/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/file_client/file_client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/file_server/file_server.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -73,11 +83,17 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Exercise_6_c#" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Exercise_6_c#" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="file_client" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -157,11 +173,12 @@
       <workItem from="1551965551589" duration="159000" />
       <workItem from="1551965834136" duration="1005000" />
       <workItem from="1552568967002" duration="241000" />
+      <workItem from="1552569619152" duration="148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1405000" />
+    <option name="totallyTimeSpent" value="1553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -175,7 +192,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -231,26 +248,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/file_server/file_server.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <marker date="1552569255968" expanded="false" signature="6:74" ph="..." />
+            <marker date="1552569255968" expanded="true" signature="89:1320" ph="{...}" />
+            <marker date="1552569255968" expanded="true" signature="110:1318" ph="{...}" />
+            <marker date="1552569255968" expanded="true" signature="116:161" ph="/// The PORT ... " />
+            <marker date="1552569255968" expanded="true" signature="189:237" ph="/// The BUFSIZE ... " />
+            <marker date="1552569255968" expanded="true" signature="269:557" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_server&quot;/&gt; class. ... " />
+            <marker date="1552569255968" expanded="true" signature="582:628" ph="{...}" />
+            <marker date="1552569255968" expanded="true" signature="632:901" ph="/// Sends the file. ... " />
+            <marker date="1552569255968" expanded="true" signature="976:1010" ph="{...}" />
+            <marker date="1552569255968" expanded="true" signature="1014:1200" ph="/// The entry point of the program, where the program control starts and ends. ... " />
+            <marker date="1552569255968" expanded="true" signature="1242:1315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/file_client/file_client.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        <state relative-caret-position="400">
+          <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
           <folding>
-            <marker date="1551966535446" expanded="false" signature="6:93" ph="..." />
-            <marker date="1551966535446" expanded="true" signature="109:2683" ph="{...}" />
-            <marker date="1551966535446" expanded="true" signature="130:2681" ph="{...}" />
-            <marker date="1551966535446" expanded="true" signature="136:182" ph="/// The PORT. ... " />
-            <marker date="1551966535446" expanded="true" signature="210:259" ph="/// The BUFSIZE. ... " />
-            <marker date="1551966535446" expanded="true" signature="337:566" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_client&quot;/&gt; class. ... " />
-            <marker date="1551966535446" expanded="true" signature="603:1146" ph="{...}" />
-            <marker date="1551966535446" expanded="true" signature="895:1073" ph="/* byte[] outStream = System.Text.Encoding.ASCII.GetBytes(Desiredfile + &quot;$&quot;); ... */" />
-            <marker date="1551966535446" expanded="true" signature="1150:1355" ph="/// Receives the file. ... " />
-            <marker date="1551966535446" expanded="true" signature="1418:2125" ph="{...}" />
-            <marker date="1551966535446" expanded="true" signature="1573:1652" ph="{...}" />
-            <marker date="1551966535446" expanded="true" signature="1883:2006" ph="{...}" />
-            <marker date="1551966535446" expanded="true" signature="2173:2338" ph="{...}" />
-            <marker date="1551966535446" expanded="true" signature="2351:2537" ph="/// The entry point of the program, where the program control starts and ends. ... " />
-            <marker date="1551966535446" expanded="true" signature="2579:2678" ph="{...}" />
+            <marker date="1552569255973" expanded="false" signature="6:93" ph="..." />
+            <marker date="1552569255973" expanded="true" signature="109:2683" ph="{...}" />
+            <marker date="1552569255973" expanded="true" signature="130:2681" ph="{...}" />
+            <marker date="1552569255973" expanded="true" signature="136:182" ph="/// The PORT. ... " />
+            <marker date="1552569255973" expanded="true" signature="210:259" ph="/// The BUFSIZE. ... " />
+            <marker date="1552569255973" expanded="true" signature="337:566" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_client&quot;/&gt; class. ... " />
+            <marker date="1552569255973" expanded="true" signature="603:1146" ph="{...}" />
+            <marker date="1552569255973" expanded="true" signature="895:1073" ph="/* byte[] outStream = System.Text.Encoding.ASCII.GetBytes(Desiredfile + &quot;$&quot;); ... */" />
+            <marker date="1552569255973" expanded="true" signature="1150:1355" ph="/// Receives the file. ... " />
+            <marker date="1552569255973" expanded="true" signature="1418:2125" ph="{...}" />
+            <marker date="1552569255973" expanded="true" signature="1573:1652" ph="{...}" />
+            <marker date="1552569255973" expanded="true" signature="1883:2006" ph="{...}" />
+            <marker date="1552569255973" expanded="true" signature="2173:2338" ph="{...}" />
+            <marker date="1552569255973" expanded="true" signature="2351:2537" ph="/// The entry point of the program, where the program control starts and ends. ... " />
+            <marker date="1552569255973" expanded="true" signature="2579:2678" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="811d7484-fd9b-40f9-8246-0a13f0bfeb64" name="Default Changelist" comment="" />
+    <list default="true" id="811d7484-fd9b-40f9-8246-0a13f0bfeb64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/.idea/.idea.UDPClientNEw/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/.idea/.idea.UDPClientNEw/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/.idea/.idea.UDPClientNEw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/.idea/.idea.UDPClientNEw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Server/.idea/.idea.Exercise7_UDPServer/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercise_6_c#/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercise_6_c#/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercise_6_c#/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercise_6_c#/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercise_6_c#/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercise_6_c#/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/bin/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/bin/Debug/LIB.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/bin/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/bin/Debug/LIB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/obj/Debug/LIB.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/obj/Debug/LIB.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/obj/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/obj/Debug/LIB.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIB/obj/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LIB/obj/Debug/LIB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_server/bin/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/bin/Debug/LIB.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_server/bin/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/bin/Debug/LIB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_server/bin/Debug/file_server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/bin/Debug/file_server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_server/bin/Debug/file_server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/bin/Debug/file_server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/file_server/obj/x86/Debug/file_server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/bin/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/bin/Debug/LIB.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/bin/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/bin/Debug/LIB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/obj/Debug/LIB.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/obj/Debug/LIB.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/obj/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/obj/Debug/LIB.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/obj/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/LIB/obj/Debug/LIB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/bin/Debug/LIB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/bin/Debug/LIB.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/bin/Debug/LIB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/bin/Debug/LIB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/bin/Debug/file_client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/bin/Debug/file_client.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/bin/Debug/file_client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/bin/Debug/file_client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c#(2) (CLIENT)/Exercise_6_c#/file_client/obj/x86/Debug/file_client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/UDPClientNEw/obj/x86/Debug/UDPClientNEw.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Client/UDPClientNEw/obj/x86/Debug/UDPClientNEw.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exercise_7/UDP_Server/Exercise7_UDPServer/obj/x86/Debug/Exercise7_UDPServer.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Exercise_7/UDP_Server/Exercise7_UDPServer/obj/x86/Debug/Exercise7_UDPServer.csprojResolveAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,30 +51,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/file_server/file_server.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+            <state relative-caret-position="520">
+              <caret line="117" column="37" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
               <folding>
-                <marker date="1551966421174" expanded="false" signature="6:170" ph="..." />
-                <marker date="1551966421174" expanded="true" signature="185:3725" ph="{...}" />
-                <marker date="1551966421174" expanded="true" signature="206:3723" ph="{...}" />
-                <marker date="1551966421174" expanded="true" signature="212:257" ph="/// The PORT ... " />
-                <marker date="1551966421174" expanded="true" signature="285:333" ph="/// The BUFSIZE ... " />
-                <marker date="1551966421174" expanded="true" signature="374:662" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_server&quot;/&gt; class. ... " />
-                <marker date="1551966421174" expanded="true" signature="687:1971" ph="{...}" />
-                <marker date="1551966421174" expanded="true" signature="864:1843" ph="{...}" />
-                <marker date="1551966421174" expanded="true" signature="1125:1291" ph="/* Infinite loop for monitoring requests from Clients ... */" />
-                <marker date="1551966421174" expanded="true" signature="2016:2285" ph="/// Sends the file. ... " />
-                <marker date="1551966421174" expanded="true" signature="2360:3377" ph="{...}" />
-                <marker date="1551966421174" expanded="true" signature="2458:3038" ph="{...}" />
-                <marker date="1551966421174" expanded="true" signature="2874:2988" ph="{...}" />
-                <marker date="1551966421174" expanded="true" signature="3046:3334" ph="{...}" />
-                <marker date="1551966421174" expanded="true" signature="3138:3217" ph="/* File was not found, send errormessage ... */" />
-                <marker date="1551966421174" expanded="true" signature="3381:3567" ph="/// The entry point of the program, where the program control starts and ends. ... " />
-                <marker date="1551966421174" expanded="true" signature="3609:3720" ph="{...}" />
+                <marker date="1552569255987" expanded="false" signature="6:170" ph="..." />
+                <marker date="1552569255987" expanded="true" signature="185:3725" ph="{...}" />
+                <marker date="1552569255987" expanded="true" signature="206:3723" ph="{...}" />
+                <marker date="1552569255987" expanded="true" signature="212:257" ph="/// The PORT ... " />
+                <marker date="1552569255987" expanded="true" signature="285:333" ph="/// The BUFSIZE ... " />
+                <marker date="1552569255987" expanded="true" signature="374:662" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_server&quot;/&gt; class. ... " />
+                <marker date="1552569255987" expanded="true" signature="687:1971" ph="{...}" />
+                <marker date="1552569255987" expanded="true" signature="864:1843" ph="{...}" />
+                <marker date="1552569255987" expanded="true" signature="1125:1291" ph="/* Infinite loop for monitoring requests from Clients ... */" />
+                <marker date="1552569255987" expanded="true" signature="2016:2285" ph="/// Sends the file. ... " />
+                <marker date="1552569255987" expanded="true" signature="2360:3377" ph="{...}" />
+                <marker date="1552569255987" expanded="true" signature="2458:3038" ph="{...}" />
+                <marker date="1552569255987" expanded="true" signature="2874:2988" ph="{...}" />
+                <marker date="1552569255987" expanded="true" signature="3046:3334" ph="{...}" />
+                <marker date="1552569255987" expanded="true" signature="3138:3217" ph="/* File was not found, send errormessage ... */" />
+                <marker date="1552569255987" expanded="true" signature="3381:3567" ph="/// The entry point of the program, where the program control starts and ends. ... " />
+                <marker date="1552569255987" expanded="true" signature="3609:3720" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -41,7 +83,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/file_client/file_client.cs" root0="FORCE_HIGHLIGHTING" />
@@ -65,8 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -74,11 +114,18 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Exercise_6_c#" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Exercise_6_c#" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="file_server" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,11 +182,13 @@
       <workItem from="1551960996052" duration="1777000" />
       <workItem from="1551965503021" duration="1336000" />
       <workItem from="1552569089226" duration="27000" />
+      <workItem from="1552569305544" duration="124000" />
+      <workItem from="1552569627673" duration="144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3140000" />
+    <option name="totallyTimeSpent" value="3408000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -153,7 +202,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13003664" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13247864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -218,26 +267,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/file_server/file_server.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+        <state relative-caret-position="520">
+          <caret line="117" column="37" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
           <folding>
-            <marker date="1551966421174" expanded="false" signature="6:170" ph="..." />
-            <marker date="1551966421174" expanded="true" signature="185:3725" ph="{...}" />
-            <marker date="1551966421174" expanded="true" signature="206:3723" ph="{...}" />
-            <marker date="1551966421174" expanded="true" signature="212:257" ph="/// The PORT ... " />
-            <marker date="1551966421174" expanded="true" signature="285:333" ph="/// The BUFSIZE ... " />
-            <marker date="1551966421174" expanded="true" signature="374:662" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_server&quot;/&gt; class. ... " />
-            <marker date="1551966421174" expanded="true" signature="687:1971" ph="{...}" />
-            <marker date="1551966421174" expanded="true" signature="864:1843" ph="{...}" />
-            <marker date="1551966421174" expanded="true" signature="1125:1291" ph="/* Infinite loop for monitoring requests from Clients ... */" />
-            <marker date="1551966421174" expanded="true" signature="2016:2285" ph="/// Sends the file. ... " />
-            <marker date="1551966421174" expanded="true" signature="2360:3377" ph="{...}" />
-            <marker date="1551966421174" expanded="true" signature="2458:3038" ph="{...}" />
-            <marker date="1551966421174" expanded="true" signature="2874:2988" ph="{...}" />
-            <marker date="1551966421174" expanded="true" signature="3046:3334" ph="{...}" />
-            <marker date="1551966421174" expanded="true" signature="3138:3217" ph="/* File was not found, send errormessage ... */" />
-            <marker date="1551966421174" expanded="true" signature="3381:3567" ph="/// The entry point of the program, where the program control starts and ends. ... " />
-            <marker date="1551966421174" expanded="true" signature="3609:3720" ph="{...}" />
+            <marker date="1552569255987" expanded="false" signature="6:170" ph="..." />
+            <marker date="1552569255987" expanded="true" signature="185:3725" ph="{...}" />
+            <marker date="1552569255987" expanded="true" signature="206:3723" ph="{...}" />
+            <marker date="1552569255987" expanded="true" signature="212:257" ph="/// The PORT ... " />
+            <marker date="1552569255987" expanded="true" signature="285:333" ph="/// The BUFSIZE ... " />
+            <marker date="1552569255987" expanded="true" signature="374:662" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_server&quot;/&gt; class. ... " />
+            <marker date="1552569255987" expanded="true" signature="687:1971" ph="{...}" />
+            <marker date="1552569255987" expanded="true" signature="864:1843" ph="{...}" />
+            <marker date="1552569255987" expanded="true" signature="1125:1291" ph="/* Infinite loop for monitoring requests from Clients ... */" />
+            <marker date="1552569255987" expanded="true" signature="2016:2285" ph="/// Sends the file. ... " />
+            <marker date="1552569255987" expanded="true" signature="2360:3377" ph="{...}" />
+            <marker date="1552569255987" expanded="true" signature="2458:3038" ph="{...}" />
+            <marker date="1552569255987" expanded="true" signature="2874:2988" ph="{...}" />
+            <marker date="1552569255987" expanded="true" signature="3046:3334" ph="{...}" />
+            <marker date="1552569255987" expanded="true" signature="3138:3217" ph="/* File was not found, send errormessage ... */" />
+            <marker date="1552569255987" expanded="true" signature="3381:3567" ph="/// The entry point of the program, where the program control starts and ends. ... " />
+            <marker date="1552569255987" expanded="true" signature="3609:3720" ph="{...}" />
           </folding>
         </state>
       </provider>
