@@ -1,0 +1,6 @@
+/home/ikn/Desktop/Exercise7_UDPServer/Exercise7_UDPServer/obj/x86/Debug/Exercise7_UDPServer.csprojResolveAssemblyReference.cache
+/home/ikn/Desktop/Exercise7_UDPServer/Exercise7_UDPServer/obj/x86/Debug/Exercise7_UDPServer.csproj.CoreCompileInputs.cache
+/home/ikn/Desktop/Exercise7_UDPServer/Exercise7_UDPServer/bin/Debug/Exercise7_UDPServer.exe
+/home/ikn/Desktop/Exercise7_UDPServer/Exercise7_UDPServer/bin/Debug/Exercise7_UDPServer.pdb
+/home/ikn/Desktop/Exercise7_UDPServer/Exercise7_UDPServer/obj/x86/Debug/Exercise7_UDPServer.exe
+/home/ikn/Desktop/Exercise7_UDPServer/Exercise7_UDPServer/obj/x86/Debug/Exercise7_UDPServer.pdb

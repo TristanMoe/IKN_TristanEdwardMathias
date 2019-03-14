@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6627DA98-C9F1-4527-A241-B817270ADBE6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exercise7__UDPServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise7_UDPServer/UDP_Client_Listener.cs">
+    <Files>
+      <File FileName="Exercise7_UDPServer/UDP_Client_Listener.cs" Line="75" Column="17" />
+      <File FileName="Exercise7_UDPServer/Program.cs" Line="10" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
