@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c8c4007-b147-41f2-8986-e32d10783278" name="Default Changelist" comment="" />
+    <list default="true" id="9c8c4007-b147-41f2-8986-e32d10783278" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise_6_c# (SERVER)/Exercise_6_c#/.idea/.idea.Exercise_6_c#/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,11 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/file_client/file_client.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="-140">
               <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
               <folding>
                 <marker date="1551966535446" expanded="false" signature="6:93" ph="..." />
@@ -63,6 +65,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -70,18 +73,12 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Exercise_6_c#" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Exercise_6_c#" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="file_client" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,11 +156,12 @@
       <updated>1551965550120</updated>
       <workItem from="1551965551589" duration="159000" />
       <workItem from="1551965834136" duration="1005000" />
+      <workItem from="1552568967002" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1164000" />
+    <option name="totallyTimeSpent" value="1405000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,7 +175,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -235,7 +233,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/file_client/file_client.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="-140">
           <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
           <folding>
             <marker date="1551966535446" expanded="false" signature="6:93" ph="..." />
