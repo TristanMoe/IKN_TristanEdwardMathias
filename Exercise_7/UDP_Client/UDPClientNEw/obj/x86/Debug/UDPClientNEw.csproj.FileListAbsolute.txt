@@ -1,0 +1,6 @@
+/home/ikn/Desktop/UDPClientNEw/UDPClientNEw/bin/Debug/UDPClientNEw.exe
+/home/ikn/Desktop/UDPClientNEw/UDPClientNEw/bin/Debug/UDPClientNEw.pdb
+/home/ikn/Desktop/UDPClientNEw/UDPClientNEw/obj/x86/Debug/UDPClientNEw.csprojResolveAssemblyReference.cache
+/home/ikn/Desktop/UDPClientNEw/UDPClientNEw/obj/x86/Debug/UDPClientNEw.csproj.CoreCompileInputs.cache
+/home/ikn/Desktop/UDPClientNEw/UDPClientNEw/obj/x86/Debug/UDPClientNEw.exe
+/home/ikn/Desktop/UDPClientNEw/UDPClientNEw/obj/x86/Debug/UDPClientNEw.pdb
