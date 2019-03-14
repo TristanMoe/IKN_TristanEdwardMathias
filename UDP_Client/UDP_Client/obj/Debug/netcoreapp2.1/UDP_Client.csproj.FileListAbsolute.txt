@@ -1,0 +1,11 @@
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/bin/Debug/netcoreapp2.1/UDP_Client.deps.json
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/bin/Debug/netcoreapp2.1/UDP_Client.runtimeconfig.json
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/bin/Debug/netcoreapp2.1/UDP_Client.runtimeconfig.dev.json
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/bin/Debug/netcoreapp2.1/UDP_Client.dll
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/bin/Debug/netcoreapp2.1/UDP_Client.pdb
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/obj/Debug/netcoreapp2.1/UDP_Client.csprojAssemblyReference.cache
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/obj/Debug/netcoreapp2.1/UDP_Client.csproj.CoreCompileInputs.cache
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/obj/Debug/netcoreapp2.1/UDP_Client.AssemblyInfoInputs.cache
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/obj/Debug/netcoreapp2.1/UDP_Client.AssemblyInfo.cs
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/obj/Debug/netcoreapp2.1/UDP_Client.dll
+/Users/edwardbrunton/Documents/4 Semester/IKN/UDP_Client/UDP_Client/obj/Debug/netcoreapp2.1/UDP_Client.pdb
