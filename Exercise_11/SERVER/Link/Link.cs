@@ -1,5 +1,6 @@
 using System;
 using System.IO.Ports;
+using System.Net;
 using System.Text;
 
 /// <summary>
@@ -15,7 +16,7 @@ namespace Linklaget
 		/// <summary>
 		/// The DELIMITE for slip protocol.
 		/// </summary>
-		const byte DELIMITER = (byte)'A';
+		const char DELIMITER = 'A';
 		/// <summary>
 		/// The buffer for link.
 		/// </summary>
@@ -66,9 +67,32 @@ namespace Linklaget
 		/// </param>
 		public void send (byte[] buf, int size)
 		{
-	    	// TO DO Your own code
-            //Tilføj A ved begyndelse og til sidst
-            
+			string stringreceived = System.Text.Encoding.Default.GetString(buf);
+
+			string stringtosend = "";
+
+			for (int i = 0; i < stringreceived.Length; i++)
+			{
+				if (stringreceived[i].Equals('A'))
+				{
+					stringtosend += "BC";
+					size++;
+				}
+
+				if (stringreceived[i].Equals('B'))
+				{
+					stringtosend += "BD";
+					size++;
+				}
+				else				
+				    stringtosend += stringreceived[i];
+			}
+			buf = Encoding.ASCII.GetBytes(DELIMITER + stringtosend + DELIMITER); 
+			
+			if(!serialPort.IsOpen)
+				serialPort.Open();
+			
+			serialPort.Write(buf,0,size);
 		}
 
         /// <summary>
@@ -86,6 +110,9 @@ namespace Linklaget
             // TO DO Your own code
             
             int i = 0;
+            string output = "No Bytes Received";
+
+            /*
             while (buf[i] != DELIMITER && i < buf.Length)
             {
                 //No 'A' has been read
@@ -103,12 +130,37 @@ namespace Linklaget
                     throw new Exception("A termination 'A' frame was never read");
                 tempBuffer[j] = buf[i];
             }
+            */
            
             //Convert to string for tests and output 
-            string output = Encoding.ASCII.GetString(tempBuffer); 
+
+            serialPort.Read(buf, 0, serialPort.ReadBufferSize);
+            
+            string read = Encoding.ASCII.GetString(buf);
+            
+            if (read.IndexOf(DELIMITER) > -1) 
+            { 
+	            
+	            output = read.Substring(read.IndexOf(DELIMITER), read.LastIndexOf(DELIMITER)); 
+	            
+	            Console.WriteLine(output); 
+            }
+            else
+            {
+	            Console.WriteLine(output);
+	            return 0;
+            }
+           
+             
+            
+            output.Replace("BC", "A");
+            output.Replace("CD", "B");
+            
             Console.WriteLine(output);
 
-            return tempBuffer.Length; 
+            buf = Encoding.ASCII.GetBytes(output);
+
+            return buf.Length; 
         }
     }
 }

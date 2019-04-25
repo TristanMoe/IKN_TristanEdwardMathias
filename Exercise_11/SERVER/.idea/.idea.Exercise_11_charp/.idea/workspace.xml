@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6802239-4591-4f0b-9eac-fc28e03bb8ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Link/Link.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Link/Link.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_server/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1556189238418" expanded="false" signature="6:63" ph="..." />
+                <marker date="1556189238418" expanded="true" signature="65:195" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+                <marker date="1556189238418" expanded="true" signature="476:700" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+                <marker date="1556189238418" expanded="true" signature="740:974" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_server/file_server.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+              <folding>
+                <marker date="1556189238418" expanded="false" signature="6:86" ph="..." />
+                <marker date="1556189238418" expanded="true" signature="109:1037" ph="{...}" />
+                <marker date="1556189238418" expanded="true" signature="130:1035" ph="{...}" />
+                <marker date="1556189238418" expanded="true" signature="136:184" ph="/// The BUFSIZE ... " />
+                <marker date="1556189238418" expanded="true" signature="268:371" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_server&quot;/&gt; class. ... " />
+                <marker date="1556189238418" expanded="true" signature="396:430" ph="{...}" />
+                <marker date="1556189238418" expanded="true" signature="434:659" ph="/// Sends the file. ... " />
+                <marker date="1556189238418" expanded="true" signature="736:770" ph="{...}" />
+                <marker date="1556189238418" expanded="true" signature="774:960" ph="/// The entry point of the program, where the program control starts and ends. ... " />
+                <marker date="1556189238418" expanded="true" signature="1002:1032" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LIB/LIB.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <marker date="1556189238412" expanded="false" signature="6:74" ph="..." />
+                <marker date="1556189238412" expanded="true" signature="93:860" ph="{...}" />
+                <marker date="1556189238412" expanded="true" signature="113:858" ph="{...}" />
+                <marker date="1556189238412" expanded="true" signature="133:141" ph="{...}" />
+                <marker date="1556189238412" expanded="true" signature="145:341" ph="/// Extracts the name of the file. ... " />
+                <marker date="1556189238412" expanded="true" signature="397:517" ph="{...}" />
+                <marker date="1556189238412" expanded="true" signature="521:701" ph="/// Check_s the file_ exists. ... " />
+                <marker date="1556189238412" expanded="true" signature="758:855" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Transport/Transport.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="771">
+              <caret line="116" column="34" lean-forward="true" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
+              <folding>
+                <marker date="1556189238417" expanded="false" signature="6:30" ph="..." />
+                <marker date="1556189238417" expanded="true" signature="32:75" ph="/* Transport. ... */" />
+                <marker date="1556189238417" expanded="true" signature="100:3002" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="104:149" ph="/// Transport. ... " />
+                <marker date="1556189238417" expanded="true" signature="173:3000" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="179:225" ph="/// The link. ... " />
+                <marker date="1556189238417" expanded="true" signature="249:314" ph="/// The 1' complements checksum. ... " />
+                <marker date="1556189238417" expanded="true" signature="346:394" ph="/// The buffer. ... " />
+                <marker date="1556189238417" expanded="true" signature="422:470" ph="/// The seq no. ... " />
+                <marker date="1556189238417" expanded="true" signature="495:547" ph="/// The old_seq no. ... " />
+                <marker date="1556189238417" expanded="true" signature="576:629" ph="/// The error count. ... " />
+                <marker date="1556189238417" expanded="true" signature="658:713" ph="/// The DEFAULT_SEQNO. ... " />
+                <marker date="1556189238417" expanded="true" signature="755:886" ph="/// The data received. True = received data in receiveAck, False = not received data in receiveAck ... " />
+                <marker date="1556189238417" expanded="true" signature="918:988" ph="/// The number of data the recveived. ... " />
+                <marker date="1556189238417" expanded="true" signature="1020:1121" ph="/// Initializes a new instance of the &lt;see cref=&quot;Transport&quot;/&gt; class. ... " />
+                <marker date="1556189238417" expanded="true" signature="1166:1403" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="1407:1509" ph="/// Receives the ack. ... " />
+                <marker date="1556189238417" expanded="true" signature="1537:1975" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="1650:1953" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="1855:1886" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="1979:2090" ph="/// Sends the ack. ... " />
+                <marker date="1556189238417" expanded="true" signature="2128:2509" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="2513:2695" ph="/// Send the specified buffer and size. ... " />
+                <marker date="1556189238417" expanded="true" signature="2736:2770" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="2774:2897" ph="/// Receive the specified buffer. ... " />
+                <marker date="1556189238417" expanded="true" signature="2935:2997" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Link/Link.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5">
+              <caret line="115" column="57" lean-forward="true" selection-start-line="115" selection-start-column="57" selection-end-line="115" selection-end-column="57" />
+              <folding>
+                <marker date="1556199893065" expanded="true" signature="6:73" ph="..." />
+                <marker date="1556199893065" expanded="true" signature="75:113" ph="/* Link. ... */" />
+                <marker date="1556199893065" expanded="true" signature="133:3941" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="137:177" ph="/// Link. ... " />
+                <marker date="1556199893065" expanded="true" signature="196:3939" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="202:270" ph="/// The DELIMITE for slip protocol. ... " />
+                <marker date="1556199893065" expanded="true" signature="303:360" ph="/// The buffer for link. ... " />
+                <marker date="1556199893065" expanded="true" signature="389:442" ph="/// The serial port. ... " />
+                <marker date="1556199893065" expanded="true" signature="471:567" ph="/// Initializes a new instance of the &lt;see cref=&quot;link&quot;/&gt; class. ... " />
+                <marker date="1556199893065" expanded="true" signature="607:1258" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="718:813" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="822:917" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="1108:1184" ph="/* Uncomment the next line to use timeout ... */" />
+                <marker date="1556199893065" expanded="true" signature="1262:1438" ph="/// Send the specified buf and size. ... " />
+                <marker date="1556199893065" expanded="true" signature="1480:2054" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="1638:1887" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="1682:1734" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="1774:1826" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="2064:2291" ph="/// Receive the specified buf and size. ... " />
+                <marker date="1556199893065" expanded="true" signature="2334:3933" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="2357:2423" ph="/* Encoding.ASCII.GetBytes(&quot;A&quot;)) ... */" />
+                <marker date="1556199893065" expanded="true" signature="2522:3109" ph="/* while (buf[i] != DELIMITER &amp;&amp; i &lt; buf.Length) ... */" />
+                <marker date="1556199893065" expanded="true" signature="3370:3561" ph="{...}" />
+                <marker date="1556199893065" expanded="true" signature="3578:3669" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Transport/TransConst.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding>
+                <marker date="1556189238417" expanded="true" signature="39:250" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="64:102" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="129:194" ph="{...}" />
+                <marker date="1556189238417" expanded="true" signature="219:247" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Transport/Checksum.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1556189238416" expanded="true" signature="39:1024" ph="{...}" />
+                <marker date="1556189238416" expanded="true" signature="64:1022" ph="{...}" />
+                <marker date="1556189238416" expanded="true" signature="88:96" ph="{...}" />
+                <marker date="1556189238416" expanded="true" signature="134:422" ph="{...}" />
+                <marker date="1556189238416" expanded="true" signature="222:364" ph="{...}" />
+                <marker date="1556189238416" expanded="true" signature="473:705" ph="{...}" />
+                <marker date="1556189238416" expanded="true" signature="760:1019" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Transport/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1556189238416" expanded="false" signature="6:63" ph="..." />
+                <marker date="1556189238416" expanded="true" signature="65:195" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+                <marker date="1556189238416" expanded="true" signature="479:703" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+                <marker date="1556189238416" expanded="true" signature="743:977" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/file_server/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/file_server/file_server.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Transport/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Transport/TransConst.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LIB/LIB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Link/Link.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Transport/Transport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Transport/Checksum.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Link/Link.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Exercise_11_charp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Exercise_11_charp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LIB" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Exercise_11_charp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Link" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Exercise_11_charp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Transport" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../SWT" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6802239-4591-4f0b-9eac-fc28e03bb8ea" name="Default Changelist" comment="" />
+      <created>1556189282901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556189282901</updated>
+      <workItem from="1556189284236" duration="7846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7846000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1892552" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/file_server/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556189238418" expanded="false" signature="6:63" ph="..." />
+            <marker date="1556189238418" expanded="true" signature="65:195" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1556189238418" expanded="true" signature="476:700" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1556189238418" expanded="true" signature="740:974" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Transport/Checksum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1556189238416" expanded="true" signature="39:1024" ph="{...}" />
+            <marker date="1556189238416" expanded="true" signature="64:1022" ph="{...}" />
+            <marker date="1556189238416" expanded="true" signature="88:96" ph="{...}" />
+            <marker date="1556189238416" expanded="true" signature="134:422" ph="{...}" />
+            <marker date="1556189238416" expanded="true" signature="222:364" ph="{...}" />
+            <marker date="1556189238416" expanded="true" signature="473:705" ph="{...}" />
+            <marker date="1556189238416" expanded="true" signature="760:1019" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Transport/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556189238416" expanded="false" signature="6:63" ph="..." />
+            <marker date="1556189238416" expanded="true" signature="65:195" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1556189238416" expanded="true" signature="479:703" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1556189238416" expanded="true" signature="743:977" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_server/file_server.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <marker date="1556189238418" expanded="false" signature="6:86" ph="..." />
+            <marker date="1556189238418" expanded="true" signature="109:1037" ph="{...}" />
+            <marker date="1556189238418" expanded="true" signature="130:1035" ph="{...}" />
+            <marker date="1556189238418" expanded="true" signature="136:184" ph="/// The BUFSIZE ... " />
+            <marker date="1556189238418" expanded="true" signature="268:371" ph="/// Initializes a new instance of the &lt;see cref=&quot;file_server&quot;/&gt; class. ... " />
+            <marker date="1556189238418" expanded="true" signature="396:430" ph="{...}" />
+            <marker date="1556189238418" expanded="true" signature="434:659" ph="/// Sends the file. ... " />
+            <marker date="1556189238418" expanded="true" signature="736:770" ph="{...}" />
+            <marker date="1556189238418" expanded="true" signature="774:960" ph="/// The entry point of the program, where the program control starts and ends. ... " />
+            <marker date="1556189238418" expanded="true" signature="1002:1032" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIB/LIB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1556189238412" expanded="false" signature="6:74" ph="..." />
+            <marker date="1556189238412" expanded="true" signature="93:860" ph="{...}" />
+            <marker date="1556189238412" expanded="true" signature="113:858" ph="{...}" />
+            <marker date="1556189238412" expanded="true" signature="133:141" ph="{...}" />
+            <marker date="1556189238412" expanded="true" signature="145:341" ph="/// Extracts the name of the file. ... " />
+            <marker date="1556189238412" expanded="true" signature="397:517" ph="{...}" />
+            <marker date="1556189238412" expanded="true" signature="521:701" ph="/// Check_s the file_ exists. ... " />
+            <marker date="1556189238412" expanded="true" signature="758:855" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Transport/TransConst.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1556189238417" expanded="true" signature="39:250" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="64:102" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="129:194" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="219:247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Transport/Transport.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="116" column="34" lean-forward="true" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
+          <folding>
+            <marker date="1556189238417" expanded="false" signature="6:30" ph="..." />
+            <marker date="1556189238417" expanded="true" signature="32:75" ph="/* Transport. ... */" />
+            <marker date="1556189238417" expanded="true" signature="100:3002" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="104:149" ph="/// Transport. ... " />
+            <marker date="1556189238417" expanded="true" signature="173:3000" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="179:225" ph="/// The link. ... " />
+            <marker date="1556189238417" expanded="true" signature="249:314" ph="/// The 1' complements checksum. ... " />
+            <marker date="1556189238417" expanded="true" signature="346:394" ph="/// The buffer. ... " />
+            <marker date="1556189238417" expanded="true" signature="422:470" ph="/// The seq no. ... " />
+            <marker date="1556189238417" expanded="true" signature="495:547" ph="/// The old_seq no. ... " />
+            <marker date="1556189238417" expanded="true" signature="576:629" ph="/// The error count. ... " />
+            <marker date="1556189238417" expanded="true" signature="658:713" ph="/// The DEFAULT_SEQNO. ... " />
+            <marker date="1556189238417" expanded="true" signature="755:886" ph="/// The data received. True = received data in receiveAck, False = not received data in receiveAck ... " />
+            <marker date="1556189238417" expanded="true" signature="918:988" ph="/// The number of data the recveived. ... " />
+            <marker date="1556189238417" expanded="true" signature="1020:1121" ph="/// Initializes a new instance of the &lt;see cref=&quot;Transport&quot;/&gt; class. ... " />
+            <marker date="1556189238417" expanded="true" signature="1166:1403" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="1407:1509" ph="/// Receives the ack. ... " />
+            <marker date="1556189238417" expanded="true" signature="1537:1975" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="1650:1953" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="1855:1886" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="1979:2090" ph="/// Sends the ack. ... " />
+            <marker date="1556189238417" expanded="true" signature="2128:2509" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="2513:2695" ph="/// Send the specified buffer and size. ... " />
+            <marker date="1556189238417" expanded="true" signature="2736:2770" ph="{...}" />
+            <marker date="1556189238417" expanded="true" signature="2774:2897" ph="/// Receive the specified buffer. ... " />
+            <marker date="1556189238417" expanded="true" signature="2935:2997" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Link/Link.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="115" column="57" lean-forward="true" selection-start-line="115" selection-start-column="57" selection-end-line="115" selection-end-column="57" />
+          <folding>
+            <marker date="1556199893065" expanded="true" signature="6:73" ph="..." />
+            <marker date="1556199893065" expanded="true" signature="75:113" ph="/* Link. ... */" />
+            <marker date="1556199893065" expanded="true" signature="133:3941" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="137:177" ph="/// Link. ... " />
+            <marker date="1556199893065" expanded="true" signature="196:3939" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="202:270" ph="/// The DELIMITE for slip protocol. ... " />
+            <marker date="1556199893065" expanded="true" signature="303:360" ph="/// The buffer for link. ... " />
+            <marker date="1556199893065" expanded="true" signature="389:442" ph="/// The serial port. ... " />
+            <marker date="1556199893065" expanded="true" signature="471:567" ph="/// Initializes a new instance of the &lt;see cref=&quot;link&quot;/&gt; class. ... " />
+            <marker date="1556199893065" expanded="true" signature="607:1258" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="718:813" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="822:917" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="1108:1184" ph="/* Uncomment the next line to use timeout ... */" />
+            <marker date="1556199893065" expanded="true" signature="1262:1438" ph="/// Send the specified buf and size. ... " />
+            <marker date="1556199893065" expanded="true" signature="1480:2054" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="1638:1887" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="1682:1734" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="1774:1826" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="2064:2291" ph="/// Receive the specified buf and size. ... " />
+            <marker date="1556199893065" expanded="true" signature="2334:3933" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="2357:2423" ph="/* Encoding.ASCII.GetBytes(&quot;A&quot;)) ... */" />
+            <marker date="1556199893065" expanded="true" signature="2522:3109" ph="/* while (buf[i] != DELIMITER &amp;&amp; i &lt; buf.Length) ... */" />
+            <marker date="1556199893065" expanded="true" signature="3370:3561" ph="{...}" />
+            <marker date="1556199893065" expanded="true" signature="3578:3669" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
