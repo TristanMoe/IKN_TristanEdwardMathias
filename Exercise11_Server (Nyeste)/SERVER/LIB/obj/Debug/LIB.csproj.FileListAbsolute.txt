@@ -1,0 +1,11 @@
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/bin/Debug/LIB.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/bin/Debug/LIB.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/bin/Debug/Link.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/bin/Debug/System.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/bin/Debug/Transport.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/bin/Debug/Link.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/bin/Debug/Transport.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/obj/Debug/LIB.csprojResolveAssemblyReference.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/obj/Debug/LIB.csproj.CoreCompileInputs.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/obj/Debug/LIB.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/LIB/obj/Debug/LIB.pdb

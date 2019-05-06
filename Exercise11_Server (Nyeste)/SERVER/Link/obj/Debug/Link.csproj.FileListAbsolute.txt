@@ -1,0 +1,5 @@
+/home/ikn/Desktop/Exercise11_Server/SERVER/Link/bin/Debug/Link.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/Link/bin/Debug/Link.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/Link/obj/Debug/Link.csproj.CoreCompileInputs.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/Link/obj/Debug/Link.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/Link/obj/Debug/Link.pdb

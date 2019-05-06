@@ -1,0 +1,13 @@
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/bin/Debug/file_server.exe
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/bin/Debug/file_server.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/bin/Debug/LIB.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/bin/Debug/Transport.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/bin/Debug/Link.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/bin/Debug/Transport.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/bin/Debug/LIB.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/bin/Debug/LIB.dll.mdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/bin/Debug/Link.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/obj/x86/Debug/file_server.csprojResolveAssemblyReference.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/obj/x86/Debug/file_server.exe
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_server/obj/x86/Debug/file_server.pdb

@@ -1,0 +1,8 @@
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/bin/Debug/Transport.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/bin/Debug/Transport.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/bin/Debug/Link.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/bin/Debug/Link.pdb
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/obj/Debug/Transport.csprojResolveAssemblyReference.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/obj/Debug/Transport.csproj.CoreCompileInputs.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/obj/Debug/Transport.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/obj/Debug/Transport.pdb
