@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Text;
 using Transportlaget;
+using Linklaget; 
 using Library;
 
 namespace Application
@@ -28,8 +29,15 @@ namespace Application
 		/// </param>
 	    private file_client(String[] args)
 	    {
-	    	// TO DO Your own code
-	    }
+			var tpl = new Transport(BUFSIZE, APP); 
+			// TO DO Your own code
+
+			byte[] desiredfile = Encoding.ASCII.GetBytes(args[0]);
+			Console.WriteLine($"Requesting file: {args[0]}");
+			tpl.send(desiredfile, desiredfile.Length);
+			Console.WriteLine($"Waiting for file from server");
+            receiveFile(args[0], tpl); 
+  	    }
 
 		/// <summary>
 		/// Receives the file.
@@ -43,6 +51,23 @@ namespace Application
 		private void receiveFile (String fileName, Transport transport)
 		{
 			// TO DO Your own code
+			byte[] receiveBuffer = new byte[BUFSIZE];
+			string ReceivedData = "";
+			long filesize = 0;
+
+			//Get file size
+			if((filesize = transport.receive(ref receiveBuffer)) == 0)
+			{
+				Console.WriteLine("File did not exist");
+				return;                                
+			}
+			receiveBuffer = new byte[filesize];
+			Array.Clear(receiveBuffer, 0, receiveBuffer.Length);
+
+			transport.receive(ref receiveBuffer);
+
+			ReceivedData = Encoding.ASCII.GetString(receiveBuffer);
+			Console.WriteLine($"DATA RECEIVED: \n {ReceivedData}");
 		}
 
 		/// <summary>
@@ -51,9 +76,9 @@ namespace Application
 		/// <param name='args'>
 		/// First argument: Filname
 		/// </param>
-		public static void Main (string[] args)
+		public static void Main(string[] args)
 		{
-			new file_client(args);
 		}
+
 	}
 }

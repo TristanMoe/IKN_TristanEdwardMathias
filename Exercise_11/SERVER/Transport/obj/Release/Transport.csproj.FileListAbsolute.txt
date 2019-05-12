@@ -1,0 +1,5 @@
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/bin/Release/Transport.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/bin/Release/Link.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/obj/Release/Transport.csprojResolveAssemblyReference.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/obj/Release/Transport.csproj.CoreCompileInputs.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/Transport/obj/Release/Transport.dll

@@ -41,5 +41,16 @@ namespace Library
 
 			return 0;
 		}
+
+        public static long check_Elements_In_Array(string array)
+		{
+			int amount = 0;
+			foreach(var character in array)
+			{
+				if (character != '\0')
+					amount++; 
+			}
+			return amount;
+		}
 	}
 }

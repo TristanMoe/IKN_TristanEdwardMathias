@@ -1,0 +1,3 @@
+/home/ikn/Desktop/Exercise11_Server/SERVER/Link/bin/Release/Link.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/Link/obj/Release/Link.csproj.CoreCompileInputs.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/Link/obj/Release/Link.dll

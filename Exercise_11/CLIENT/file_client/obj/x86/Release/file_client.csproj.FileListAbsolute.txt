@@ -1,0 +1,7 @@
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_client/obj/x86/Release/file_client.csproj.CoreCompileInputs.cache
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_client/bin/Release/file_client.exe
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_client/bin/Release/LIB.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_client/bin/Release/Link.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_client/bin/Release/Transport.dll
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_client/obj/x86/Release/file_client.exe
+/home/ikn/Desktop/Exercise11_Server/SERVER/file_client/obj/x86/Release/file_client.csprojResolveAssemblyReference.cache

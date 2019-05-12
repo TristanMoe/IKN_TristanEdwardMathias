@@ -2,98 +2,119 @@ using System;
 using System.IO.Ports;
 using System.Net;
 using System.Text;
+using System.Collections.Generic;
+using System.Threading;
 
 /// <summary>
 /// Link.
 /// </summary>
 namespace Linklaget
 {
-	/// <summary>
-	/// Link.
-	/// </summary>
-	public class Link
-	{
-		/// <summary>
-		/// The DELIMITE for slip protocol.
-		/// </summary>
-		const char DELIMITER = 'A';
-		/// <summary>
-		/// The buffer for link.
-		/// </summary>
-		private byte[] _buffer;
-		/// <summary>
-		/// The serial port.
-		/// </summary>
-		SerialPort serialPort;
+    /// <summary>
+    /// Link.
+    /// </summary>
+    public class Link
+    {
+        /// <summary>
+        /// The DELIMITE for slip protocol.
+        /// </summary>
+        const char DELIMITER = 'A';
+        /// <summary>
+        /// The buffer for link.
+        /// </summary>
+        private byte[] _buffer;
+        /// <summary>
+        /// The serial port.
+        /// </summary>
+        SerialPort serialPort;
 
-		/// <summary>
-		/// Initializes a new instance of the <see cref="link"/> class.
-		/// </summary>
-		public Link (int BUFSIZE, string APP)
-		{
-			// Create a new SerialPort object with default settings.
-			#if DEBUG
-				if(APP.Equals("FILE_SERVER"))
-				{
-					serialPort = new SerialPort("/dev/ttySn0",115200,Parity.None,8,StopBits.One);
-				}
-				else
-				{
-					serialPort = new SerialPort("/dev/ttySn1",115200,Parity.None,8,StopBits.One);
-				}
-			#else
-				serialPort = new SerialPort("/dev/ttyS1",115200,Parity.None,8,StopBits.One);
-			#endif
-			if(!serialPort.IsOpen)
-				serialPort.Open();
+        int BUFSIZE;
 
-			_buffer = new byte[(BUFSIZE*2)];
+        /// <summary>
+        /// Initializes a new instance of the <see cref="link"/> class.
+        /// </summary>
+        public Link(int BUFSIZE, string APP)
+        {
+            // Create a new SerialPort object with default settings.
+            this.BUFSIZE = BUFSIZE;
+#if DEBUG
+            if (APP.Equals("FILE_SERVER"))
+            {
+                serialPort = new SerialPort("/dev/ttyS1", 115200, Parity.None, 8, StopBits.One);
+                serialPort.ReadTimeout = 5000;
+                serialPort.WriteBufferSize = BUFSIZE * 3;
+                serialPort.ReadBufferSize = BUFSIZE * 3;
+            }
+            else
+            {
+                serialPort = new SerialPort("/dev/ttyS1", 115200, Parity.None, 8, StopBits.One);
+                serialPort.ReadTimeout = 5000;
+                serialPort.WriteBufferSize = BUFSIZE * 3;
+                serialPort.ReadBufferSize = BUFSIZE * 3;
+            }
+#else
+                serialPort = new SerialPort("/dev/ttyS1",115200,Parity.None,8,StopBits.One);
+#endif
+            if (!serialPort.IsOpen)
+            {
+                serialPort.Open();
+            }
 
-			// Uncomment the next line to use timeout
-			//serialPort.ReadTimeout = 500;
+            _buffer = new byte[(BUFSIZE * 2)];
 
-			serialPort.DiscardInBuffer ();
-			serialPort.DiscardOutBuffer ();
-		}
+            // Uncomment the next line to use timeout
+            //serialPort.ReadTimeout = 500;
+            serialPort.DiscardOutBuffer();
+            serialPort.DiscardInBuffer();
 
-		/// <summary>
-		/// Send the specified buf and size.
-		/// </summary>
-		/// <param name='buf'>
-		/// Buffer.
-		/// </param>
-		/// <param name='size'>
-		/// Size.
-		/// </param>
-		public void send (byte[] buf, int size)
-		{
-			string stringreceived = System.Text.Encoding.Default.GetString(buf);
+        }
 
-			string stringtosend = "";
+        /// <summary>
+        /// Send the specified buf and size.
+        /// </summary>
+        /// <param name='buf'>
+        /// Buffer.
+        /// </param>
+        /// <param name='size'>
+        /// Size.
+        /// </param>
+        public void send(byte[] buf, int size)
+        {
+            string stringreceived = Encoding.ASCII.GetString(buf);
+            var list_Buffer = new List<byte>(buf);
 
-			for (int i = 0; i < stringreceived.Length; i++)
-			{
-				if (stringreceived[i].Equals('A'))
-				{
-					stringtosend += "BC";
-					size++;
-				}
+            for (int i = 0; i < list_Buffer.Count; i++)
+            {
+                if (list_Buffer[i] == (byte)'A')
+                {
+                    list_Buffer.RemoveAt(i);
+                    list_Buffer.Insert(i, (byte)'B');
+                    list_Buffer.Insert(i + 1, (byte)'C');
+                    var slet = Encoding.ASCII.GetString(list_Buffer.ToArray());
+                }
+                else if (list_Buffer[i] == (byte)'B')
+                {
+                    list_Buffer.Insert(i + 1, (byte)'D');
+                    var slet = Encoding.ASCII.GetString(list_Buffer.ToArray());
+                }
+            }
 
-				if (stringreceived[i].Equals('B'))
-				{
-					stringtosend += "BD";
-					size++;
-				}
-				else				
-				    stringtosend += stringreceived[i];
-			}
-			buf = Encoding.ASCII.GetBytes(DELIMITER + stringtosend + DELIMITER); 
-			
-			if(!serialPort.IsOpen)
-				serialPort.Open();
-			
-			serialPort.Write(buf,0,size);
-		}
+            list_Buffer.Insert(0, (byte)DELIMITER);
+            list_Buffer.Insert(list_Buffer.Count, (byte)DELIMITER);
+
+            buf = list_Buffer.ToArray();
+
+
+            //buf = Encoding.ASCII.GetBytes((DELIMITER + stringreceived + DELIMITER));
+
+
+            if (!serialPort.IsOpen)
+                serialPort.Open();
+
+            serialPort.Write(buf, 0, buf.Length);
+
+            serialPort.DiscardInBuffer();
+        }
 
         /// <summary>
         /// Receive the specified buf and size.
@@ -106,61 +127,73 @@ namespace Linklaget
         /// </param>
         public int receive(ref byte[] buf)
         {
-            //Encoding.ASCII.GetBytes("A"))
-            // TO DO Your own code
-            
-            int i = 0;
-            string output = "No Bytes Received";
+            var receiveLinkBuffer = new byte[BUFSIZE * 2];
+            // TO DO Your own code           
+            Array.Clear(receiveLinkBuffer, 0, receiveLinkBuffer.Length);
+            bool firstRound = true;
+            int bytesread = 0;
 
-            /*
-            while (buf[i] != DELIMITER && i < buf.Length)
+            while (serialPort.BytesToRead != 0 || firstRound == true)
             {
-                //No 'A' has been read
-                if (i >= buf.Length)
-                    return 0;
-                i++;
+                try
+                {
+                    bytesread += serialPort.Read(receiveLinkBuffer, bytesread, receiveLinkBuffer.Length - bytesread);
+                    Thread.Sleep(100);
+                    firstRound = false;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+					Environment.Exit(1);
+                }
             }
 
-            int j = 0;
-            var tempBuffer = new byte[buf.Length-(i+1)];
-            //read until A. 
-            while (buf[i] != DELIMITER && i <= buf.Length)
-            {
-                if (i >= buf.Length)
-                    throw new Exception("A termination 'A' frame was never read");
-                tempBuffer[j] = buf[i];
-            }
-            */
-           
-            //Convert to string for tests and output 
+            var list_Buffer = new List<byte>(receiveLinkBuffer);
+            int delimiterFirst = 0;
+            int delimiterLast = 0;
+            int counter = 0;
 
-            serialPort.Read(buf, 0, serialPort.ReadBufferSize);
-            
-            string read = Encoding.ASCII.GetString(buf);
-            
-            if (read.IndexOf(DELIMITER) > -1) 
-            { 
-	            
-	            output = read.Substring(read.IndexOf(DELIMITER), read.LastIndexOf(DELIMITER)); 
-	            
-	            Console.WriteLine(output); 
+            if (((delimiterFirst = list_Buffer.FindIndex(str => str.Equals((byte)'A'))) != -1)
+                && ((delimiterLast = list_Buffer.FindLastIndex(str => str.Equals((byte)'A'))) != -1))
+            {
+                if (delimiterFirst == delimiterLast)
+                {
+                    Console.WriteLine("No Delimiter was found");
+                    Console.WriteLine($"The buffer cointained: {Encoding.ASCII.GetString(receiveLinkBuffer)}");
+                    return -1;
+                }
+                list_Buffer.RemoveAll(str => str.Equals((byte)'A'));
+                counter += 2;
+                for (int i = delimiterFirst; i < delimiterLast; i++)
+                {
+                    if (list_Buffer[i].Equals((byte)'B') && list_Buffer[i + 1].Equals((byte)'D'))
+                    {
+                        list_Buffer.RemoveRange(i, 2);
+                        list_Buffer.Insert(i, (byte)'B');
+                        counter++;
+                    }
+                    if (list_Buffer[i].Equals((byte)'B') && list_Buffer[i + 1].Equals((byte)'C'))
+                    {
+                        list_Buffer.RemoveRange(i, 2);
+                        list_Buffer.Insert(i, (byte)'A');
+                        counter++;
+                    }
+                }
+
             }
             else
             {
-	            Console.WriteLine(output);
-	            return 0;
+                Console.WriteLine("No Delimiter was found");
+                Console.WriteLine($"The buffer cointained: {Encoding.ASCII.GetString(receiveLinkBuffer)}");
+                return -1;
             }
-           
-             
-            
-            output.Replace("BC", "A");
-            output.Replace("CD", "B");
-            
-            Console.WriteLine(output);
+            list_Buffer.RemoveRange(delimiterLast + 1 - counter, list_Buffer.Count - delimiterLast - 1 + counter);
+            buf = list_Buffer.ToArray();
 
-            buf = Encoding.ASCII.GetBytes(output);
+            serialPort.DiscardOutBuffer();
 
-            return buf.Length; 
+            return buf.Length;
         }
+
     }
 }

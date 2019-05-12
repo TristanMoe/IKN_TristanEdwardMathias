@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
@@ -53,6 +52,10 @@
     <ProjectReference Include="..\Transport\Transport.csproj">
       <Project>{981C1C09-64A7-47CD-A093-30083CCFFD03}</Project>
       <Name>Transport</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Link\Link.csproj">
+      <Project>{6D10C85B-63E3-416B-A3B8-0E6498B7C1C1}</Project>
+      <Name>Link</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

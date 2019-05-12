@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{421BDA4C-999D-4B14-B645-E15BA7136554}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Link/Link.cs">
+    <Files>
+      <File FileName="file_server/file_server.cs" Line="112" Column="1" />
+      <File FileName="Link/Link.cs" Line="132" Column="53" />
+      <File FileName="LIB/Program.cs" Line="1" Column="1" />
+      <File FileName="file_client/file_client.cs" Line="73" Column="16" />
+      <File FileName="Transport/Transport.cs" Line="213" Column="22" />
+      <File FileName="LIB/LIB.cs" Line="52" Column="5" />
+      <File FileName="Transport/Checksum.cs" Line="32" Column="1" />
+      <File FileName="Transport/TransConst.cs" Line="1" Column="1" />
+      <File FileName="Transport/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Link/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="file_server/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="file_client/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.file__client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.file__server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
